@@ -1,0 +1,19 @@
+[
+    {
+        "inputs": [
+            {
+                "name": "a",
+                "type": "felt"
+            }
+        ],
+        "name": "foo",
+        "outputs": [
+            {
+                "name": "res",
+                "type": "felt"
+            }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+    }
+]
